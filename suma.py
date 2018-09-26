@@ -1,2 +1,2 @@
-def(a,b):
-a + b
+def(a,b,c):
+a + b + c
